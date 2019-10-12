@@ -64,11 +64,10 @@ nav ul {
     /* overflow: hidden; */
     background-color: #333333;
   }
-nav li {
+nav ul li {
   float: left;
 }
-
-nav li a {
+nav ul li a {
   display: block;
   color: white;
   text-align: center;
