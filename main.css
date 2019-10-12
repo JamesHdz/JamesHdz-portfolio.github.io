@@ -84,10 +84,10 @@ nav a:nth-child(5) {
 /*-----header-----*/
 header {
     margin: 100px 0 200px 0;
-    text-align: center;
+    text-align: right;
 }
 header p {
-    width: 45%;
+    width: 100%;
     margin: 30px auto 0 auto;
 }
 header a {
