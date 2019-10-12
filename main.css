@@ -23,9 +23,10 @@ body {
     margin: 0 auto;
 }
 .clearfix::after {
-    content: "";
+    /* content: "";
     clear: both;
-    display: table;
+    display: table; */
+    display: flow-root;
 }
 h1 {
     color: white;
