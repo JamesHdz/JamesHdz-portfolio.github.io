@@ -57,18 +57,18 @@ nav a {
     color: white;
     text-decoration: none;
 }
-ul {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    /* overflow: hidden; */
     background-color: #333333;
   }
-li {
+nav li {
   float: left;
 }
 
-li a {
+nav li a {
   display: block;
   color: white;
   text-align: center;
