@@ -1,0 +1,41 @@
+.caption-content {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: left;
+  padding: 0 0 0 6%;
+}
+
+/* .projectBtn {
+    text-align: center;
+  } */
+
+.col-sm-12 p {
+  font-size: 16px;
+}
+
+.pt-30 {
+  padding-top: 100px !important;
+}
+
+.fa {
+  font-size: 20px;
+}
+
+.module-small-home {
+  position: relative;
+  padding: 140px 0;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.module-small-home {
+  padding: 70px 0;
+  margin: 0 0 100px 0;
+}
+
+.work-item:hover .work-image>img {
+  -webkit-transform: scale(1.1) rotate(0deg);
+  -ms-transform: scale(1.1) rotate(0deg);
+  transform: scale(1.1) rotate(0deg);
+}
