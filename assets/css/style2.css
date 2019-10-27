@@ -5,21 +5,21 @@
   padding: 0 0 0 6%;
 }
 
-/* .projectBtn {
-    text-align: center;
-  } */
+.aboutMeTitle {
+  font-size: 40px;
+}
 
-/* .col-sm-12 p {
-  font-size: 16px;
+.aboutMeSubtitle {
+  font-size: 20px;
+}
+
+.aboutMeText p {
+  font-size: 18px;
+}
+
+/* .aboutMeImage {
+  max-height: 700px;
 } */
-
-.aboutMeText {
-  font-size: 16px;
-}
-
-.aboutMeImage {
-  min-height: 300px;
-}
 
 .pt-30 {
   padding-top: 100px !important;
@@ -46,4 +46,8 @@
   -webkit-transform: scale(1.1) rotate(0deg);
   -ms-transform: scale(1.1) rotate(0deg);
   transform: scale(1.1) rotate(0deg);
+}
+
+.container {
+    width: 90%;
 }
