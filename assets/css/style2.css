@@ -9,6 +9,13 @@
   padding: 0 0 0 6%;
 }
 
+.caption-social-links a {
+  display: inline-block;
+  padding: 40px 12px 40px 0;
+  color: white;
+  font-size: 20px;
+}
+
 .aboutMeTitle {
   font-size: 40px;
 }
