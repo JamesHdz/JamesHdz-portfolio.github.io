@@ -79,3 +79,7 @@
 .container {
     width: 90%;
 }
+
+.underlineHover:hover {
+  text-decoration: underline;
+}
