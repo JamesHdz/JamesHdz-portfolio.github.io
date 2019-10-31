@@ -83,3 +83,7 @@
 .underlineHover:hover {
   text-decoration: underline;
 }
+
+.features-icon, .alt-features-icon {
+  color: #0088a9;
+}
