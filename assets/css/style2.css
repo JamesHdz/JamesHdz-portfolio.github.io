@@ -22,6 +22,7 @@
 
 .aboutMeSubtitle {
   font-size: 20px;
+  color: #0088a9;
 }
 
 .aboutMeText p {
@@ -85,6 +86,10 @@
 }
 
 .features-icon, .alt-features-icon {
+  color: #0088a9;
+}
+
+.footer-social-links a {
   color: #0088a9;
 }
 
