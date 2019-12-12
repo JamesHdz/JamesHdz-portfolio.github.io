@@ -1,5 +1,5 @@
 .navbar-custom {
-  font-size: 12px;
+  font-size: 16px;
 }
 
 .caption-content {
@@ -83,6 +83,10 @@
 
 .underlineHover:hover {
   text-decoration: underline;
+}
+
+.footer p {
+  font-size: 14px;
 }
 
 .features-icon, .alt-features-icon {

@@ -9,7 +9,11 @@ html {
 
 body {
   background: #fff;
-  font: 400 12px/1.8 "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.8;
+  /* font: 400 16px/1.8 "Open Sans", sans-serif; */
   color: #666;
   -webkit-font-smoothing: antialiased;
 }
@@ -1378,40 +1382,8 @@ General Styles - Owlcarousel
 
 .dropdown-menu {
   min-width: 180px;
-  font-size: 11px;
+  font-size: 14px;
 }
-
-/* Navbar search
-
-.dropdown-search {
-	position: relative;
-	padding: 5px;
-}
-
-.dropdown-search .form-control {
-	-webkit-border-radius: 0;
-	-moz-border-radius: 0;
-	border-radius: 0;
-	text-transform: uppercase;
-	letter-spacing: 2px;
-	font-size: 11px;
-}
-
-.search-btn {
-	position: absolute;
-	background: transparent;
-	border: none;
-	overflow: hidden;
-	top: 50%;
-	right: 1px;
-	width: 42px;
-	height: 40px;
-	line-height: 38px;
-	font-size: 14px;
-	outline: none;
-	color: #999;
-	margin-top: -20px;
-}*/
 /*--------------------------------------------------------------
 	Header
 --------------------------------------------------------------*/
@@ -2022,7 +1994,7 @@ Google map
   background: rgba(255, 255, 255, 0.8);
 }
 
-/* Work item gradien background*/
+/* Work item gradient background*/
 .works-grid.works-hover-g .work-image:after {
   opacity: 0;
 }
